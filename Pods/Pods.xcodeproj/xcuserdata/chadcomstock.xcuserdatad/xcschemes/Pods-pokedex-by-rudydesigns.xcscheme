@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '78F8C714A0EEA09D6C50326C'
+               BlueprintIdentifier = 'CE84FE8AA609763B846E63C7'
                BlueprintName = 'Pods-pokedex-by-rudydesigns'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_pokedex_by_rudydesigns.framework'>
